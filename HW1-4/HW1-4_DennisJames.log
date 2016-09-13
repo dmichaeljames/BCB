@@ -1,0 +1,25 @@
+Script started on Mon 12 Sep 2016 07:33:49 AM CDT
+]0;mike@Pancake-Lizard: ~/Dropbox/SLU/BCB5200/HW1-4[01;32mmike@Pancake-Lizard[00m:[01;34m~/Dropbox/SLU/BCB5200/HW1-4[00m$ pythong[K HW1-4_NO_BIO_V2.py
+Type your DNA sequence : acccttga
+Reverse complement DNA : TCAAGGGT
+]0;mike@Pancake-Lizard: ~/Dropbox/SLU/BCB5200/HW1-4[01;32mmike@Pancake-Lizard[00m:[01;34m~/Dropbox/SLU/BCB5200/HW1-4[00m$ python HW1-4_NO_BIO_V2.py
+Type your DNA sequence : ACCCTTGA
+Reverse complement DNA : TCAAGGGT
+]0;mike@Pancake-Lizard: ~/Dropbox/SLU/BCB5200/HW1-4[01;32mmike@Pancake-Lizard[00m:[01;34m~/Dropbox/SLU/BCB5200/HW1-4[00m$ python HW1-4_NO_BIO_V2.py
+Type your DNA sequence : ACCCTTGK
+** Error:  Not a DNA sequence
+]0;mike@Pancake-Lizard: ~/Dropbox/SLU/BCB5200/HW1-4[01;32mmike@Pancake-Lizard[00m:[01;34m~/Dropbox/SLU/BCB5200/HW1-4[00m$ python HW1-4_BIO
+HW1-4_BIO/       HW1-4_BIO_V2.py  
+]0;mike@Pancake-Lizard: ~/Dropbox/SLU/BCB5200/HW1-4[01;32mmike@Pancake-Lizard[00m:[01;34m~/Dropbox/SLU/BCB5200/HW1-4[00m$ python HW1-4_BIO_C[KV2.py 
+Type your DNA sequence: ACCCTTGA
+Reverse complement DNA:  TCAAGGGT
+]0;mike@Pancake-Lizard: ~/Dropbox/SLU/BCB5200/HW1-4[01;32mmike@Pancake-Lizard[00m:[01;34m~/Dropbox/SLU/BCB5200/HW1-4[00m$ python HW1-4_BIO_V2.py 
+Type your DNA sequence: acccttga
+Reverse complement DNA:  tcaagggt
+]0;mike@Pancake-Lizard: ~/Dropbox/SLU/BCB5200/HW1-4[01;32mmike@Pancake-Lizard[00m:[01;34m~/Dropbox/SLU/BCB5200/HW1-4[00m$ python HW1-4_BIO_V2.py 
+Type your DNA sequence: ACCCTTGK
+Reverse complement DNA:  MCAAGGGT
+]0;mike@Pancake-Lizard: ~/Dropbox/SLU/BCB5200/HW1-4[01;32mmike@Pancake-Lizard[00m:[01;34m~/Dropbox/SLU/BCB5200/HW1-4[00m$ exit
+exit
+
+Script done on Mon 12 Sep 2016 07:35:33 AM CDT
